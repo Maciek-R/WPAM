@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Logic Game 3D</string>
+    <string name="app_name_upp">Logic Game 3D</string>
+    <string name="save">save.txt</string>
+    <string name="author"></string>
+    <string name="new_game">NOWA GRA</string>
+    <string name="load">ZAŁADUJ STAN GRY</string>
+    <string name="exit">WYJSCIE</string>
+</resources>

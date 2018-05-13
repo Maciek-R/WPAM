@@ -1,0 +1,9 @@
+//
+//p-position x z
+//levels-number of floors
+//
+p -3 0
+p -2 -3
+p 2 -3
+p 3 0
+levels 4

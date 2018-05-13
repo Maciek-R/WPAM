@@ -1,0 +1,7 @@
+//
+//l - level with 3 values as color(GREEN, RED, YELLOW, BLUE, MAGENTA, CYAN, BLACK, GRAY, WHITE)
+//first 2 color equals 3rd color
+//
+l GREEN RED YELLOW
+l RED BLUE MAGENTA
+l GREEN BLUE CYAN

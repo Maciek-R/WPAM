@@ -1,0 +1,7 @@
+//
+//4 lines with one value{RIGHT, LEFT, BACKWARD or FORWARD}
+//
+RIGHT
+LEFT
+RIGHT
+LEFT

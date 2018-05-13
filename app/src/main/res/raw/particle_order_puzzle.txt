@@ -1,0 +1,6 @@
+//
+//count - number of particles
+//radius
+//
+count 5
+radius 3.0
