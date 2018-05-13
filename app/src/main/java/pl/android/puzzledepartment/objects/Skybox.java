@@ -8,9 +8,9 @@ import pl.android.puzzledepartment.data.VertexArray;
 import pl.android.puzzledepartment.managers.TimeManager;
 import pl.android.puzzledepartment.programs.SkyboxShaderProgram;
 
-import static android.opengl.GLES20.GL_TRIANGLES;
-import static android.opengl.GLES20.GL_UNSIGNED_BYTE;
-import static android.opengl.GLES20.glDrawElements;
+import static android.opengl.GLES30.GL_TRIANGLES;
+import static android.opengl.GLES30.GL_UNSIGNED_BYTE;
+import static android.opengl.GLES30.glDrawElements;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-28.

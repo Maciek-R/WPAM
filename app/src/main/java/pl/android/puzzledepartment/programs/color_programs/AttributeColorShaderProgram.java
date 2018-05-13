@@ -4,7 +4,7 @@ import android.content.Context;
 
 import pl.android.puzzledepartment.R;
 
-import static android.opengl.GLES20.glGetAttribLocation;
+import static android.opengl.GLES30.glGetAttribLocation;
 
 /**
  * Created by Maciek Ruszczyk on 2017-11-19.

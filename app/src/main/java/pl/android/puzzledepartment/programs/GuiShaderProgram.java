@@ -5,14 +5,14 @@ import android.content.Context;
 import pl.android.puzzledepartment.R;
 import pl.android.puzzledepartment.gui.GuiEntity;
 
-import static android.opengl.GLES20.GL_TEXTURE0;
-import static android.opengl.GLES20.GL_TEXTURE_2D;
-import static android.opengl.GLES20.glActiveTexture;
-import static android.opengl.GLES20.glBindTexture;
-import static android.opengl.GLES20.glGetAttribLocation;
-import static android.opengl.GLES20.glGetUniformLocation;
-import static android.opengl.GLES20.glUniform1i;
-import static android.opengl.GLES20.glUniformMatrix4fv;
+import static android.opengl.GLES30.GL_TEXTURE0;
+import static android.opengl.GLES30.GL_TEXTURE_2D;
+import static android.opengl.GLES30.glActiveTexture;
+import static android.opengl.GLES30.glBindTexture;
+import static android.opengl.GLES30.glGetAttribLocation;
+import static android.opengl.GLES30.glGetUniformLocation;
+import static android.opengl.GLES30.glUniform1i;
+import static android.opengl.GLES30.glUniformMatrix4fv;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-28.

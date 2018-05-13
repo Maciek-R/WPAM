@@ -10,11 +10,11 @@ import pl.android.puzzledepartment.util.geometry.Maths;
 import pl.android.puzzledepartment.util.geometry.Vector3f;
 import pl.android.puzzledepartment.util.geometry.Vector2f;
 
-import static android.opengl.GLES20.GL_ELEMENT_ARRAY_BUFFER;
-import static android.opengl.GLES20.GL_TRIANGLES;
-import static android.opengl.GLES20.GL_UNSIGNED_SHORT;
-import static android.opengl.GLES20.glBindBuffer;
-import static android.opengl.GLES20.glDrawElements;
+import static android.opengl.GLES30.GL_ELEMENT_ARRAY_BUFFER;
+import static android.opengl.GLES30.GL_TRIANGLES;
+import static android.opengl.GLES30.GL_UNSIGNED_SHORT;
+import static android.opengl.GLES30.glBindBuffer;
+import static android.opengl.GLES30.glDrawElements;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-07.

@@ -6,8 +6,8 @@ import pl.android.puzzledepartment.programs.ShaderProgram;
 import pl.android.puzzledepartment.util.geometry.Point;
 import pl.android.puzzledepartment.util.geometry.Vector3f;
 
-import static android.opengl.GLES20.GL_TRIANGLES;
-import static android.opengl.GLES20.glDrawArrays;
+import static android.opengl.GLES30.GL_TRIANGLES;
+import static android.opengl.GLES30.glDrawArrays;
 import static pl.android.puzzledepartment.util.Constants.BYTES_PER_FLOAT;
 
 /**

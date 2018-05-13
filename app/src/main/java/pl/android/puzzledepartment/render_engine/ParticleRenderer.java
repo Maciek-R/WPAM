@@ -3,13 +3,13 @@ package pl.android.puzzledepartment.render_engine;
 import pl.android.puzzledepartment.objects.particles.ParticleSystem;
 import pl.android.puzzledepartment.programs.ParticleShaderProgram;
 
-import static android.opengl.GLES20.GL_BLEND;
-import static android.opengl.GLES20.GL_ONE;
-import static android.opengl.GLES20.GL_ONE_MINUS_SRC_COLOR;
-import static android.opengl.GLES20.glBlendFunc;
-import static android.opengl.GLES20.glDepthMask;
-import static android.opengl.GLES20.glDisable;
-import static android.opengl.GLES20.glEnable;
+import static android.opengl.GLES30.GL_BLEND;
+import static android.opengl.GLES30.GL_ONE;
+import static android.opengl.GLES30.GL_ONE_MINUS_SRC_COLOR;
+import static android.opengl.GLES30.glBlendFunc;
+import static android.opengl.GLES30.glDepthMask;
+import static android.opengl.GLES30.glDisable;
+import static android.opengl.GLES30.glEnable;
 
 /**
  * Created by Maciek Ruszczyk on 2017-11-19.

@@ -5,7 +5,7 @@ import android.content.Context;
 import pl.android.puzzledepartment.util.ShaderHelper;
 import pl.android.puzzledepartment.util.TextResourceReader;
 
-import static android.opengl.GLES20.glUseProgram;
+import static android.opengl.GLES30.glUseProgram;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-06.

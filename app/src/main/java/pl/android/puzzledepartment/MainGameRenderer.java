@@ -12,18 +12,16 @@ import pl.android.puzzledepartment.managers.GameManager;
 import pl.android.puzzledepartment.managers.TimeManager;
 import pl.android.puzzledepartment.util.Logger;
 
-import static android.content.ContentValues.TAG;
-import static android.opengl.GLES20.GL_BACK;
-import static android.opengl.GLES20.GL_COLOR_BUFFER_BIT;
-import static android.opengl.GLES20.GL_CULL_FACE;
-import static android.opengl.GLES20.GL_DEPTH_BUFFER_BIT;
-import static android.opengl.GLES20.GL_DEPTH_TEST;
-
-import static android.opengl.GLES20.glClear;
-import static android.opengl.GLES20.glClearColor;
-import static android.opengl.GLES20.glCullFace;
-import static android.opengl.GLES20.glEnable;
-import static android.opengl.GLES20.glViewport;
+import static android.opengl.GLES30.GL_BACK;
+import static android.opengl.GLES30.GL_COLOR_BUFFER_BIT;
+import static android.opengl.GLES30.GL_CULL_FACE;
+import static android.opengl.GLES30.GL_DEPTH_BUFFER_BIT;
+import static android.opengl.GLES30.GL_DEPTH_TEST;
+import static android.opengl.GLES30.glClear;
+import static android.opengl.GLES30.glClearColor;
+import static android.opengl.GLES30.glCullFace;
+import static android.opengl.GLES30.glEnable;
+import static android.opengl.GLES30.glViewport;
 
 
 /**

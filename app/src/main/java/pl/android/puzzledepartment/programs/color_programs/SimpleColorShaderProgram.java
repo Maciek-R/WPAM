@@ -5,8 +5,8 @@ import android.graphics.Color;
 
 import pl.android.puzzledepartment.R;
 
-import static android.opengl.GLES20.glGetUniformLocation;
-import static android.opengl.GLES20.glUniform4f;
+import static android.opengl.GLES30.glGetUniformLocation;
+import static android.opengl.GLES30.glUniform4f;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-06.

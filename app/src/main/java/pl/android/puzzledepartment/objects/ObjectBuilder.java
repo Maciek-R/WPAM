@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-import static android.opengl.GLES20.GL_TRIANGLE_FAN;
-import static android.opengl.GLES20.GL_TRIANGLE_STRIP;
-import static android.opengl.GLES20.glDrawArrays;
+import static android.opengl.GLES30.GL_TRIANGLE_FAN;
+import static android.opengl.GLES30.GL_TRIANGLE_STRIP;
+import static android.opengl.GLES30.glDrawArrays;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-07.

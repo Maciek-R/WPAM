@@ -5,10 +5,10 @@ import android.graphics.Color;
 
 import pl.android.puzzledepartment.programs.entity_programs.EntityShaderProgram;
 
-import static android.opengl.GLES20.glGetAttribLocation;
-import static android.opengl.GLES20.glGetUniformLocation;
-import static android.opengl.GLES20.glUniform3f;
-import static android.opengl.GLES20.glUniformMatrix4fv;
+import static android.opengl.GLES30.glGetAttribLocation;
+import static android.opengl.GLES30.glGetUniformLocation;
+import static android.opengl.GLES30.glUniform3f;
+import static android.opengl.GLES30.glUniformMatrix4fv;
 
 /**
  * Created by Maciek Ruszczyk on 2017-10-06.
